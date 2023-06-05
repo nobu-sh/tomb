@@ -2,10 +2,6 @@
   <img width="550" src="./.github/branding/banner.webp">
 </p>
 
-<br>
-
-<!-- ___ -->
-
 ## Tomb
 
 Tomb is an open-source secure message sharing tool that prioritizes data encryption to safeguard your information. It offers easy deployment options, either manual setup or through Docker.
