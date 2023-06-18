@@ -2,7 +2,15 @@
 name = "tomb"
 version = "0.1.0"
 edition = "2021"
+authors = ["nobu-sh <chat@nobu.sh>"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+actix-web = "4.3.1"
+colored = "2.0.0"
+dotenv = "0.15.0"
+env_logger = "0.10.0"
+git-version = "0.3.5"
+log = "0.4.19"
+tokio = { version = "1.28.2", features = ["full"] }
